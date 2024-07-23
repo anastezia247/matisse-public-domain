@@ -18,7 +18,7 @@ This repository includes an HTML file (`index.html`) that lists several public d
 ## How to View the Website
 
 The website listing Henri Matisse's public domain works is hosted using GitHub Pages. To view the website, visit the following URL:
-[https://<your-username>.github.io/matisse-public-domain](https://<your-username>.github.io/matisse-public-domain)
+[https://anastezia247.github.io/matisse-public-domain](https://<your-username>.github.io/matisse-public-domain)
 
 ## Contributing
 
